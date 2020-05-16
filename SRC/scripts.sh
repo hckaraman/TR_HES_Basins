@@ -1,0 +1,3 @@
+find -iname 'flow_acc.tif' -o -iname 'Flow_dir.tif' -o -iname 'DEM_breach.tif' -o -iname 'DEM_fil.tif' -o -iname 'DEM_out.tif' -o -iname 'DEM_fill.tif' -o -iname 'str*.tif' -o -iname 'Watershed.tif' -o -iname 'at*' -o -iname 'basins*' -o -iname 'snap*'  -exec rm {} +
+for file in *;do ext=${file##*.};name=$(basename "at" ".$ext").$ext;mv $file $name; done
+find . -type f \( -name "flow_acc.tif" -o -name "Flow_dir.tif" -o -name "DEM_breach.tif" -o -name "DEM_fil.tif" -o -name 'DEM_out.tif' -o -name 'DEM_fill.tif' -o -name 'str*.tif' -o -name 'Watershed.tif' -o -name 'at*' -o -name 'basins*' -o -name 'snap*' -o -name '*basin*' \) -exec rm {} +
