@@ -53,8 +53,11 @@ def full_work_flow(folder):
         wbt.clip(hes, basin[0], 'at.shp')
         wbt.snap_pour_points('at.shp', "Flow_acc.tif",
                              "snap_point.shp", snap_dist=10000)
-        wbt.watershed("Flow_dir.tif", "snap_point.shp", "Watershed.tif")
-        raster2polygon("Watershed.tif", item_full_path)
+        try:
+            wbt.watershed("Flow_dir.tif", "snap_point.shp", "Watershed.tif")
+            raster2polygon("Watershed.tif", item_full_path)
+        except:
+            pass
         print(files[0])
 
 
