@@ -26,8 +26,32 @@ def raster2polygon(file, path):
     gpd_polygonized_raster = gpd_polygonized_raster[gpd_polygonized_raster['raster_val'] > 0]
     # Convert to geojson
     gpd_polygonized_raster.crs = 'epsg:23036'
+    name = os.path.basename(path)
     gpd_polygonized_raster.to_file(
-        driver='ESRI Shapefile', filename=os.path.join(path, "basins.shp"))
+        driver='ESRI Shapefile', filename=os.path.join(path, name + ".shp"))
+
+
+def rename(folder):
+    name = os.path.basename(folder) + '_basins'
+    try:
+        name = name.replace(" ", "_")
+    except:
+        pass
+    files = glob.glob1(folder, 'basins.*')
+    for file in files:
+        ext = file.split('.')[1]
+        basename = file.split('.')[0]
+        os.rename(os.path.join(folder, file), os.path.join(folder, name + '.' + ext))
+
+    # code = 'for file in basins.*;do ext=${file##*.};name=$(basename "' + name + '" ".$ext").$ext;mv $file $name; done'
+    # os.system(code)
+
+
+def rename_all(folder):
+    root_dir = os.path.abspath(folder)
+    for item in os.listdir(root_dir):
+        item_full_path = os.path.join(root_dir, item)
+        rename(item_full_path)
 
 
 # Recursively calculate flow direction, accumulation for all basins
@@ -61,4 +85,5 @@ def full_work_flow(folder):
         print(files[0])
 
 
-full_work_flow(folder)
+# full_work_flow(folder)
+rename_all(folder)
