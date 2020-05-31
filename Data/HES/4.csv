@@ -1,0 +1,473 @@
+results/layerId,results/layerName,results/displayFieldName,results/value,results/attributes/OBJECTID,results/attributes/HES Adı,results/attributes/Kurum,results/attributes/Aşaması(seç),results/attributes/Akarsu Adı,results/attributes/SHAPE,results/geometryType,results/geometry/x,results/geometry/y,results/geometry/spatialReference/wkid,results/geometry/spatialReference/latestWkid
+25,İşletme Durumuna Göre HES,HES_ADI,Güvez HES,1669,Güvez HES,,Null,Eşençay,Point,esriGeometryPoint,29.750224720204073,36.934250373760825,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dereköy HES,1044,Dereköy HES,Kamu,FZB,Alakır Ç.,Point,esriGeometryPoint,30.310818001012834,36.58169570870223,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aksu Çayköy HES,1362,Aksu Çayköy HES,Özel(Yap İşlet Devret),IS,Aksu Ç.,Point,esriGeometryPoint,30.715259388733248,37.79736156438347,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Beyköy HES,533,Beyköy HES,Özel(Yap İşlet),Isletmede,Sakarya N.,Point,esriGeometryPoint,30.766717292974946,40.08126761643351,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kovada -3 HES,1385,Kovada -3 HES,Özel(Yap İşlet),IH,Kovada Ç.,Point,esriGeometryPoint,30.794328308683404,37.56256712460592,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökböğet Regülatörü Ve HES,1365,Gökböğet Regülatörü Ve HES,Özel(Yap İşlet),PL,Gökpınar Ç.,Point,esriGeometryPoint,30.87152537719666,37.56484801269718,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çürükiçi Regülatörü Ve HES,1370,Çürükiçi Regülatörü Ve HES,Özel(Yap İşlet),PL,Yazılı Dere,Point,esriGeometryPoint,30.910442880170585,37.462026467353375,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kucuk Aksu Barajı Ve HES,1032,Kucuk Aksu Barajı Ve HES,Kamu,Null,Küçükaksu Ç.,Point,esriGeometryPoint,30.957946984569496,37.15772822998162,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Muratlı,586,Muratlı,Kamu,1,Mudurnu Ç.,Point,esriGeometryPoint,31.034614909120226,40.53073034918719,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kasımlar Barajı Ve HES,1372,Kasımlar Barajı Ve HES,Özel(Yap İşlet),PL,Köprüçay,Point,esriGeometryPoint,31.20155237996869,37.521526093549916,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kayın,4,Kayın,Kamu,4,Samandere,Point,esriGeometryPoint,31.258784246521735,40.68745373799574,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Manavgat,1035,Manavgat,Özel(Yap İşlet),Null,Manavgat Ç.,Point,esriGeometryPoint,31.50927271753574,36.84050011111692,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sinanhoca Reg Ve HES,1086,Sinanhoca Reg Ve HES,Kamu,Null,Manavgat Ç.,Point,esriGeometryPoint,31.584473505166894,36.95630657287584,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kirazlıköprü HES,904,Kirazlıköprü HES,Özel(Yap İşlet),Ön rapor,Null,Point,esriGeometryPoint,31.623230866250374,41.24228011612667,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Alarahan,1025,Alarahan,Kamu,Null,Alara Ç.,Point,esriGeometryPoint,31.72752176613813,36.701393615983264,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kargı HES,524,Kargı HES,Kamu,planlama,Sakarya N.,Point,esriGeometryPoint,31.74515659913698,39.96609845575848,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eğerci HES,920,Eğerci HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,31.812827221196823,41.09996737996381,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çelebiler Reg Ve HES,1065,Çelebiler Reg Ve HES,Kamu,Null,Kargı,Point,esriGeometryPoint,31.946655828671304,36.68249531780207,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Turkuaz,617,Turkuaz,Kamu,4,Sayık D.,Point,esriGeometryPoint,32.01933520737082,40.60730873102217,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kargi Reg Ve HES,1085,Kargi Reg Ve HES,Kamu,Null,Kargı Ç.,Point,esriGeometryPoint,32.05194961049804,36.663735352996575,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Hayat HES,1055,Hayat HES,Kamu,FZB,Alara Ç.,Point,esriGeometryPoint,32.14338762693327,36.76326268344516,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bozkır HES,551,Bozkır HES,Kamu,planlama,Çarşamba Ç.,Point,esriGeometryPoint,32.30930947221229,37.11321893807201,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Şimşir HES,1720,Şimşir HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,32.3663818864323,41.20487427126475,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aksu Sahmallar HES,1067,Aksu Sahmallar HES,Kamu,Null,"Çatakdere,Akdere,Köprüdere",Point,esriGeometryPoint,32.43550890424902,36.42360346467635,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çatacık HES,1718,Çatacık HES,Özel(Yap İşlet),Ön rapor,Null,Point,esriGeometryPoint,32.48954660741164,40.98000082499054,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Karataş HES,1722,Karataş HES,Özel(Yap İşlet),Fizibilite,Bartın Irmağı,Point,esriGeometryPoint,32.51037203472921,41.458217296363124,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Daran 2 HES,545,Daran 2 HES,Özel(Yap İşlet),SKHA,Ermenek Ç.,Point,esriGeometryPoint,32.67948614876278,36.56711277397165,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yalman -2 HES,563,Yalman -2 HES,Özel(Yap İşlet),Fizibilite,Kışla D.,Point,esriGeometryPoint,32.76488933718259,36.723085643303754,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yazılı HES,37,Yazılı HES,Özel(Yap İşlet),Fizibilite,Yazılı Dere,Point,esriGeometryPoint,32.77594287119607,36.304039624418415,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Otluca -2 HES,90,Otluca -2 HES,Kamu,planlama,Sugözü Dere,Point,esriGeometryPoint,32.82615937385889,36.22530374288889,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Tahtalı HES,556,Tahtalı HES,Özel(Yap İşlet),Fizibilite,Kamışlı D.,Point,esriGeometryPoint,32.82857632182387,37.051164361484474,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Anamur HES,19,Anamur HES,Kamu,isletmede,Anamur Ç.,Point,esriGeometryPoint,32.85166842976906,36.210062570557376,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yazı,589,Yazı,Kamu,5,Yazı Ç.,Point,esriGeometryPoint,32.95134256628104,40.56737024749197,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eren Barajı HES,919,Eren Barajı HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,33.058150339707076,41.09990789416265,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Andıraz HES,910,Andıraz HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,33.1364382701,41.06430223195607,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Birkapılı HES,106,Birkapılı HES,Kamu,isletmede,Pirinç Suyu,Point,esriGeometryPoint,33.44317376326698,36.72060978812654,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kaya HES,903,Kaya HES,Özel(Yap İşlet),Fizibilite,Zarbana Ç.,Point,esriGeometryPoint,33.63918502651132,41.907017298056836,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Zerve I HES,1716,Zerve I HES,Özel(Yap İşlet),Ön rapor,Zerve Ç.,Point,esriGeometryPoint,33.88198978466016,41.92002546993563,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Obrucak HES,905,Obrucak HES,Özel(Yap İşlet),Fizibilite,Gökırmak,Point,esriGeometryPoint,34.00194146972137,41.36989382389084,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ebru -2 HES,1486,Ebru -2 HES,Özel(Yap İşlet),Fizibilite,İlişi Ve Ezine Çayları,Point,esriGeometryPoint,34.03281377299101,41.940196015322,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bayramiç,1832,Bayramiç,Özel(Yap İşlet),Fizibilite,Karamenderes Ç.,Point,esriGeometryPoint,26.664777430313794,39.82107272687532,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ayazma-2,1837,Ayazma-2,Kamu,"master plan, öninceleme",Ayazma D.,Point,esriGeometryPoint,26.780777180293246,39.767247221376856,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Linlin-2,1844,Linlin-2,Kamu,"master plan, öninceleme",Kovanlıkdere,Point,esriGeometryPoint,27.103420378540996,39.76436814805521,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gölgelikaya HES,1666,Gölgelikaya HES,,Null,Gürlen Ç.,Point,esriGeometryPoint,28.159042622247863,37.51380508887355,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yahyaköy HES,506,Yahyaköy HES,Kamu,"master plan, öninceleme",Susurluk Ç.,Point,esriGeometryPoint,28.176941830222386,39.99188615855399,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Simav,1833,Simav,Özel(Yap İşlet),Fizibilite,Simav Ç.,Point,esriGeometryPoint,28.315046916777398,39.26286570042128,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A.Dalaman HES 1,1935,A.Dalaman HES 1,,Null,Dalaman Ç.,Point,esriGeometryPoint,28.88336278834986,36.88543765728907,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Nevbahar HES,1684,Nevbahar HES,,Null,Cehennem Dere,Point,esriGeometryPoint,28.97545783855904,36.954549490179545,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökyar HES,1665,Gökyar HES,,Null,Dalaman Ç.,Point,esriGeometryPoint,29.009501245597317,36.96620720203649,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cindere Barajı Ve HES,1631,Cindere Barajı Ve HES,,Null,B.Menderes N.,Point,esriGeometryPoint,29.03272816049613,38.11256710314503,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kızılçağıl HES,1678,Kızılçağıl HES,,Null,Kızılçağıl,Point,esriGeometryPoint,29.060472355311163,37.074515401563225,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Karataş -2 HES,1672,Karataş -2 HES,,Null,Dalaman Ç.,Point,esriGeometryPoint,29.063911379504642,37.032221811598916,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Fethiye HES,1660,Fethiye HES,,Null,Eşençay,Point,esriGeometryPoint,29.174352981804006,36.627912121386686,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çameli -2 HES,1637,Çameli -2 HES,,Null,Karanfilli Ç.,Point,esriGeometryPoint,29.19637071721258,36.97237543243578,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çakır HES,1632,Çakır HES,,Null,Dalaman Ç.,Point,esriGeometryPoint,29.368278720837015,37.314145617950544,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sarıçay HES,1688,Sarıçay HES,,Null,Sarıçay D.,Point,esriGeometryPoint,29.43209301443263,36.7331300835042,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Oylat HES,510,Oylat HES,Özel(Yap İşlet),SKHA,Oylat Dere,Point,esriGeometryPoint,29.591137749631894,39.944613261230096,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kasaba HES,1039,Kasaba HES,Kamu,FZB,Kıbrıs Ç.,Point,esriGeometryPoint,29.761718258577897,36.30629742405583,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cayagzı Reg Ve HES,1047,Cayagzı Reg Ve HES,Kamu,Null,Alakır,Point,esriGeometryPoint,30.252896158103212,36.46476145527864,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Candır 3 HES,1091,Candır 3 HES,Kamu,Null,Çandır Ç.,Point,esriGeometryPoint,30.420639427346174,36.74131459659449,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akyar Reg. Ve HES(I),1058,Akyar Reg. Ve HES(I),Kamu,FZB,Karaman Ç.,Point,esriGeometryPoint,30.561794277768108,36.946573186435344,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Isparta Elsazı Regülatörü Ve HES,1389,Isparta Elsazı Regülatörü Ve HES,Özel(Yap İşlet),PL,Aksu Ç.,Point,esriGeometryPoint,30.785545167115355,37.52484186818533,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eskıkoy Reg Ve HES,1070,Eskıkoy Reg Ve HES,Kamu,Null,Aksu Ç.,Point,esriGeometryPoint,30.800918479996273,37.233670825581434,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Karacaören -2 Barajı Ve HES,1383,Karacaören -2 Barajı Ve HES,Kamu,isletmede,Aksu Ç.,Point,esriGeometryPoint,30.801568826753996,37.251673003990675,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yenice HES,532,Yenice HES,Kamu,isletmede,Sakarya N.,Point,esriGeometryPoint,30.85239885815379,40.062801117783,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dikmen,588,Dikmen,Kamu,1,Aksu D.,Point,esriGeometryPoint,30.853393408616878,40.711254235962386,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gül -2 Regülatörü Ve HES,1387,Gül -2 Regülatörü Ve HES,Özel(Yap İşlet),PL,Küçüksu D.,Point,esriGeometryPoint,30.882817438602707,37.47641602993509,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Üççamlı Tepesi HES,529,Üççamlı Tepesi HES,Kamu,planlama,Mudurnu Ç.,Point,esriGeometryPoint,30.999241415495515,40.58437969678909,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bora Regülatörü Ve HES,1390,Bora Regülatörü Ve HES,Kamu,planlama,Köprüçay,Point,esriGeometryPoint,31.171503250226465,37.61551829158254,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Zincirli,1029,Zincirli,Kamu,Null,Köprüçay,Point,esriGeometryPoint,31.199060839610492,37.006205626876856,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Anak Reg Ve HES,1072,Anak Reg Ve HES,Kamu,Null,İtice,Point,esriGeometryPoint,31.22156678788146,37.17040473076432,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Celle HES,1060,Celle HES,Kamu,FZB,Cerle D.,Point,esriGeometryPoint,31.28805684076731,37.04421916594304,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yaylabel HES,1371,Yaylabel HES,Özel(Yap İşlet),IH,Kartoz Ç.,Point,esriGeometryPoint,31.313585166110435,37.55393903686056,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Oymapinar,1027,Oymapinar,Kamu,Null,Manavgat Ç.,Point,esriGeometryPoint,31.52769222659935,36.91292736178753,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Mentesbet Reg Ve HES,1051,Mentesbet Reg Ve HES,Kamu,Null,Manavgat Ç.,Point,esriGeometryPoint,31.61432458177767,36.99177011289888,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bayır,607,Bayır,Kamu,5,Aladağ Ç.,Point,esriGeometryPoint,31.637659019532094,40.133476258039806,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Duzlen HES,1061,Duzlen HES,Kamu,FZB,Manavgat Ç.,Point,esriGeometryPoint,31.658366515493906,37.083542796190635,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çeltikdere,593,Çeltikdere,Kamu,5,Ulu Çay,Point,esriGeometryPoint,31.688705551231653,40.32375277408555,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Manavgat I Ve Damlapınar HES,1053,Manavgat I Ve Damlapınar HES,Kamu,Null,Manavgat Ç.,Point,esriGeometryPoint,31.703851353276434,37.13305028772245,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yukarı Karaköy,609,Yukarı Karaköy,Kamu,4,Uludere,Point,esriGeometryPoint,31.782198966532924,40.39185602243845,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sogukpınar HES,503,Sogukpınar HES,Kamu,FZB,Kargı Ç.,Point,esriGeometryPoint,31.81764054965291,36.62481904904537,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eyüpler,598,Eyüpler,Kamu,4,Ulu Ç.,Point,esriGeometryPoint,31.853665065915077,40.38319009390529,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cebeci HES,908,Cebeci HES,Özel(Yap İşlet),Ön rapor,Çatalzeytin Ç.,Point,esriGeometryPoint,31.863368752415088,41.12855281143974,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Köprübaşı Brj Ve HES,574,Köprübaşı Brj Ve HES,Kamu,insa halinde,Devrek Ç.,Point,esriGeometryPoint,31.9041180325214,40.98805244100499,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dim Barajı Ve HES,1024,Dim Barajı Ve HES,Kamu,Null,Dim Ç.,Point,esriGeometryPoint,32.13293872387623,36.5573070755789,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sugozu Kızılduz,1068,Sugozu Kızılduz,Kamu,Null,Bıçkıcı,Point,esriGeometryPoint,32.41143992237272,36.38943147092151,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Suçatı HES,915,Suçatı HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,32.483205561117806,41.16480172078917,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Narlica I HES,1076,Narlica I HES,Kamu,Null,Çığlık D.,Point,esriGeometryPoint,32.5007899284068,36.30575557835059,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Katırova HES,927,Katırova HES,Özel(Yap İşlet),Ön rapor,Bartın Irmağı,Point,esriGeometryPoint,32.55329661634772,41.406569272500725,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Efsun HES,558,Efsun HES,Özel(Yap İşlet),Fizibilite,Ermenek Ç.,Point,esriGeometryPoint,32.71283978535042,36.56805134969213,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kadıbuku HES,925,Kadıbuku HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,32.79807325011081,41.206735205975455,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eren -2 HES,896,Eren -2 HES,Özel(Yap İşlet),Fizibilite,Valay Ç.,Point,esriGeometryPoint,32.95740237796772,41.15637601869959,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kızılca Ve HES,24,Kızılca Ve HES,Özel(Yap İşlet),Fizibilite,Kazıklı Dere,Point,esriGeometryPoint,33.08441259318658,36.30084613565264,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Samatlar HES,1706,Samatlar HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,33.13059683705777,41.22882475159439,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gezende HES,536,Gezende HES,Kamu,isletmede,Ermenek Ç.,Point,esriGeometryPoint,33.257857051449825,36.56020044715514,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Mut  HES,33,Mut  HES,Kamu,planlama,Göksu N.,Point,esriGeometryPoint,33.29604251873185,36.74314256624827,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Fakas I HES,921,Fakas I HES,Özel(Yap İşlet),Ön rapor,Fakas Ç.,Point,esriGeometryPoint,33.328252499732116,41.92102669989042,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Mut -2 HES,34,Mut -2 HES,Özel(Yap İşlet),Ön rapor,Göksu N.,Point,esriGeometryPoint,33.36650551021102,36.63775585505358,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Zeyne HES,84,Zeyne HES,Kamu,isletmede,Zeyne Kaynakları,Point,esriGeometryPoint,33.529733946319375,36.45877004272735,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Deliktas HES,892,Deliktas HES,Özel(Yap İşlet),Ön rapor,İlişi Ç.,Point,esriGeometryPoint,33.967825943238616,41.95948341631171,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Lamas I HES,97,Lamas I HES,Kamu,"master plan, öninceleme",Lamas Ç.,Point,esriGeometryPoint,34.02446671592731,36.64995334565063,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Madra,1831,Madra,Özel(Yap İşlet),Fizibilite,Madra Ç.,Point,esriGeometryPoint,26.841449063531744,39.23666995467749,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kızılkeçili,1840,Kızılkeçili,Kamu,"master plan, öninceleme",Kızılkeçili D.,Point,esriGeometryPoint,26.92197564406423,39.624640440506,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Linlin-I,1842,Linlin-I,Kamu,"master plan, öninceleme",Kovanlıkdere,Point,esriGeometryPoint,27.076067362889514,39.761321320745104,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kovanburnu HES,1679,Kovanburnu HES,,Null,B.Menderes N.,Point,esriGeometryPoint,27.46381428753839,37.62563353827312,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cüneyt,1790,Cüneyt,Özel(Yap İşlet),Fizibilite,Cüneyt Ç.,Point,esriGeometryPoint,28.130099263841643,39.213929010450386,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cüneyt,1838,Cüneyt,Kamu,"master plan, öninceleme",Cüneyt Ç.,Point,esriGeometryPoint,28.143249454487496,39.20212237920915,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ercin HES,1655,Ercin HES,,Null,Namnam,Point,esriGeometryPoint,28.57075369109733,37.04093503456507,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akçay -2 Barajı Ve HES,1949,Akçay -2 Barajı Ve HES,,Null,Akçay,Point,esriGeometryPoint,28.630245639054557,37.459513872782544,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yenidere HES,1699,Yenidere HES,,Null,Yenidere,Point,esriGeometryPoint,28.693029219445336,37.478482463148275,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Balat,1789,Balat,Özel(Yap İşlet),Fizibilite,Balat Ç.,Point,esriGeometryPoint,28.73629807761139,39.614324171340506,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A.Dalaman HES 4,1938,A.Dalaman HES 4,,Null,Dalaman Ç.,Point,esriGeometryPoint,28.828107046824776,36.87166663593228,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Beyağaç HES,1629,Beyağaç HES,,Null,Derebaşı Kayn.,Point,esriGeometryPoint,28.91110255709781,37.254757717421015,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Başkarcı HES,1625,Başkarcı HES,,Null,Null,Point,esriGeometryPoint,28.975981627815372,37.771412935093515,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Güldürtaş HES,1667,Güldürtaş HES,,Null,Dalaman Ç.,Point,esriGeometryPoint,29.009528567030184,36.96639950482346,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Horoz  HES,1670,Horoz  HES,,Null,Arıtma Tahliyesi,Point,esriGeometryPoint,29.10929870625903,37.82884600058071,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ege I HES,1653,Ege I HES,,Null,Çürüksu Sol Kan.,Point,esriGeometryPoint,29.125361376584948,37.827421477139,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yön HES,1700,Yön HES,,Null,Dalaman Ç.,Point,esriGeometryPoint,29.13560131538291,37.12840770696022,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Taşcılar HES,1695,Taşcılar HES,,Null,Hüsniye(Kanlıçay),Point,esriGeometryPoint,29.24515208001624,36.94443536981815,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eşen I Barajı Ve HES,1657,Eşen I Barajı Ve HES,,Null,Eşençay,Point,esriGeometryPoint,29.422150021580748,36.800740946486314,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Erenler HES,1656,Erenler HES,,Null,B.Menderes N.,Point,esriGeometryPoint,29.44069718912079,38.07146738343421,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Boğazköy HES,518,Boğazköy HES,Özel(Yap İşlet),EPDK,Göksu,Point,esriGeometryPoint,29.526446269597535,40.17323046274961,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aykırca Reg Ve HES,1092,Aykırca Reg Ve HES,Kamu,EIE,Başgöz Ç.,Point,esriGeometryPoint,30.070648752419284,36.49082469915202,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kapıcay HES,1034,Kapıcay HES,Kamu,Null,Başgöz Ç.,Point,esriGeometryPoint,30.14493408841708,36.41313654593301,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dinar -2 HES,1361,Dinar -2 HES,Özel(Yap İşlet Devret),IS,Karakuyu Depolaması,Point,esriGeometryPoint,30.163184485684198,38.08483753248764,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Tocak  I HES,1084,Tocak  I HES,Kamu,Null,Alakır Ç.,Point,esriGeometryPoint,30.2353224648623,36.42905368568917,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Porsuk HES,521,Porsuk HES,Kamu,planlama,Porsuk Ç.,Point,esriGeometryPoint,30.285365141751544,39.641076522439946,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Isparta Çayı Reg. Ve Maraton HES,1364,Isparta Çayı Reg. Ve Maraton HES,Özel(Yap İşlet),PL,Isparta Ç.,Point,esriGeometryPoint,30.737617962292937,37.62254729139388,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eceada,622,Eceada,Kamu,4,Tavşansuyu D.,Point,esriGeometryPoint,30.873778710376452,40.55815497285567,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Göksu,610,Göksu,Kamu,4,Mudurnu Ç.,Point,esriGeometryPoint,30.898945174838563,40.5796082702437,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Balkaya,633,Balkaya,Kamu,4,Küçükdere,Point,esriGeometryPoint,30.961427551622357,40.70057800189322,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sütcüler HES,1363,Sütcüler HES,Özel(Yap İşlet Devret),IS,Değirmen D.,Point,esriGeometryPoint,30.970515528066084,37.475140001868574,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökçekaya HES,531,Gökçekaya HES,Kamu,isletmede,Sakarya N.,Point,esriGeometryPoint,31.0195340811092,40.02803389764623,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Uğur (Uğursuyu),619,Uğur (Uğursuyu),Kamu,4,Uğursuyu,Point,esriGeometryPoint,31.244010144208403,40.72696239710034,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yürük Regülatörü Ve HES,1380,Yürük Regülatörü Ve HES,Özel(Yap İşlet),MP,Cevizlidere,Point,esriGeometryPoint,31.32929444440168,38.37019236642085,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sarıyar HES,530,Sarıyar HES,Kamu,isletmede,Sakarya N.,Point,esriGeometryPoint,31.423012933156652,40.04518294033451,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akça HES,535,Akça HES,Özel(Yap İşlet),Fizibilite,Kocadere,Point,esriGeometryPoint,31.51054767893524,37.47366852152379,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökpınar,602,Gökpınar,Kamu,4,Açca Ç.,Point,esriGeometryPoint,31.577473754102584,40.32346644483312,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Karaköy,600,Karaköy,Kamu,5,Aladağ Ç.,Point,esriGeometryPoint,31.656821343783697,40.19178295002102,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Paşa,604,Paşa,Kamu,5,Bolu Ç.,Point,esriGeometryPoint,31.95007713636883,40.896739647162555,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Mengen ,3,Mengen,Kamu,4,Mengen Ç.,Point,esriGeometryPoint,31.95770268551925,40.89784789914947,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gündoğmuş,1100,Gündoğmuş,Özel(Yap İşlet),Fizibilite,Alara Ç.,Point,esriGeometryPoint,32.02382291103699,36.76058293768537,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kamer Regülatörü Ve HES,1066,Kamer Regülatörü Ve HES,Kamu,Null,Alara Ç.,Point,esriGeometryPoint,32.15133345858875,36.75796292226227,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Balır HES,1095,Balır HES,Kamu,EIE,Alara Ç.,Point,esriGeometryPoint,32.20122336012817,36.74844329270391,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çakmaklı,568,Çakmaklı,Kamu,planlama,Gerede Ç.,Point,esriGeometryPoint,32.31192852294973,40.44295657800924,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Filyos HES,923,Filyos HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,32.33211594747843,41.200775393647184,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bartın HES,881,Bartın HES,Kamu,"master plan, öninceleme",Null,Point,esriGeometryPoint,32.38881758172375,41.61761841722006,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yalnızardıç HES,539,Yalnızardıç HES,Özel(Yap İşlet),Fizibilite,Gevne Ç.,Point,esriGeometryPoint,32.46543085225217,36.740587658783724,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Güneyyaka HES,554,Güneyyaka HES,Özel(Yap İşlet),Fizibilite,Boğazdere,Point,esriGeometryPoint,32.520100617523234,36.94023369652609,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yerköprü HES,549,Yerköprü HES,Kamu,isletmede,Göksu,Point,esriGeometryPoint,32.749871069731384,37.04831065376468,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çimen,625,Çimen,Kamu,4,Çerkeş Ç.,Point,esriGeometryPoint,32.750656049201574,40.89145723632648,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Han HES,914,Han HES,Özel(Yap İşlet),Fizibilite,Null,Point,esriGeometryPoint,32.76494592913917,41.223725294069396,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eren I HES,897,Eren I HES,Özel(Yap İşlet),Fizibilite,Valay Ç.,Point,esriGeometryPoint,32.8931706074403,41.14136433108185,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ballık HES,548,Ballık HES,Özel(Yap İşlet),Fizibilite,Göksu,Point,esriGeometryPoint,32.94753413235784,36.97152791846619,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Balkusan 2 HES,537,Balkusan 2 HES,Özel(Yap İşlet),SKHA,Balkusan D.,Point,esriGeometryPoint,33.003363519116306,36.58336815452817,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kuzkaya HES,932,Kuzkaya HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,33.03073532122437,41.23208874800302,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Lenger-2 HES,21,Lenger-2 HES,Özel(Yap İşlet),SKHA,Kazıklı Dere,Point,esriGeometryPoint,33.05715165840608,36.272081738937715,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Mutlu HES,1703,Mutlu HES,Özel(Yap İşlet),Ön rapor,Fakas Ç.,Point,esriGeometryPoint,33.32920999944402,41.97734947739606,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Karasu  HES,32,Karasu  HES,Özel(Yap İşlet),Ön rapor,Göksu N.,Point,esriGeometryPoint,33.389295062070616,36.599604997044864,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sema,616,Sema,Kamu,4,Kızılırmak N.,Point,esriGeometryPoint,33.3898823627962,39.491311029835366,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kavak,6,Kavak,Kamu,4,Kızılırmak N.,Point,esriGeometryPoint,33.46831866745382,39.77870096458971,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Irmak HES,924,Irmak HES,Özel(Yap İşlet),Ön rapor,Zarbana Ç.,Point,esriGeometryPoint,33.607574947444235,41.94155413820921,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Öz-Sa HES,51,Öz-Sa HES,Özel(Yap İşlet),Fizibilite,Kurtsuyu,Point,esriGeometryPoint,33.63377449228179,36.603977242690895,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kayraktepe HES,31,Kayraktepe HES,Kamu,proje,Göksu N.,Point,esriGeometryPoint,33.817458864401296,36.40027288522433,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Silifke 21 HES,30,Silifke 21 HES,Kamu,"master plan, öninceleme",Göksu N.,Point,esriGeometryPoint,33.86333423201832,36.404833603690115,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ilıcaoba,1792,Ilıcaoba,Özel(Yap İşlet),Fizibilite,Gönen Ç.,Point,esriGeometryPoint,27.5364876983776,40.02342993099142,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kemer HES,1675,Kemer HES,,Null,Gürlen Ç.,Point,esriGeometryPoint,28.15775905156832,37.51256666804864,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Başaran HES,1624,Başaran HES,,Null,B.Menderes N.,Point,esriGeometryPoint,28.544989778013452,37.86404064267681,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kızkayası Barajı HES,504,Kızkayası Barajı HES,Özel(Yap İşlet),SKHA,Emet Ç.,Point,esriGeometryPoint,28.604503664057237,39.83449859935278,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eceana I HES,1651,Eceana I HES,,Null,Eceana D.,Point,esriGeometryPoint,28.720187961999706,37.021660446608706,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sude HES,1693,Sude HES,,Null,Akçay,Point,esriGeometryPoint,28.775548778118594,37.24376996741885,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Emet,1791,Emet,Özel(Yap İşlet),Fizibilite,Emet Ç.,Point,esriGeometryPoint,28.98109032524224,39.61658203113982,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dere HES,1648,Dere HES,,Null,Dalaman Ç.,Point,esriGeometryPoint,29.22803276058043,37.17013266038043,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bereket HES I,1627,Bereket HES I,,Null,Çuruksu Sağ S K,Point,esriGeometryPoint,29.240402848552268,37.79631784295973,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gözede2 HES,507,Gözede2 HES,Özel(Yap İşlet),Fizibilite,Aksu Ç.,Point,esriGeometryPoint,29.311551659130107,40.158351924806034,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çalkuyucak HES,1635,Çalkuyucak HES,,Null,B.Menderes N.,Point,esriGeometryPoint,29.36100393099532,38.20296677436308,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eşen -2 HES,1658,Eşen -2 HES,,Null,Eşençay,Point,esriGeometryPoint,29.40105078947498,36.76689658005114,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dırgen Reg Ve HES,1037,Dırgen Reg Ve HES,Kamu,FZB,Demre Ç.,Point,esriGeometryPoint,29.86710557213877,36.296354272953664,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gözlek Regülatörü Ve HES,1062,Gözlek Regülatörü Ve HES,Kamu,FZB,Yavuz D.,Point,esriGeometryPoint,30.196382645687933,37.271850206058886,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Alakir I  Reg Ve HES,1081,Alakir I  Reg Ve HES,Kamu,Null,Alakır Ç.,Point,esriGeometryPoint,30.308745267283108,36.71990563292481,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökçekısık HES,522,Gökçekısık HES,Kamu,planlama,Porsuk Ç.,Point,esriGeometryPoint,30.401208977046238,39.64831643133203,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Karacaören I Barajı Ve HES,1382,Karacaören I Barajı Ve HES,Kamu,isletmede,Aksu Ç.,Point,esriGeometryPoint,30.831689574874574,37.36978387113933,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kovada I HES,1384,Kovada I HES,Kamu,isletmede,Kovada Ç.,Point,esriGeometryPoint,30.8609260220144,37.63993623940841,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kızıllı-I HES,1063,Kızıllı-I HES,Kamu,FZB,GevenÇ.,Point,esriGeometryPoint,30.929950106615465,37.33577040699086,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aksu,569,Aksu,Kamu,planlama,Aksu D.,Point,esriGeometryPoint,30.99070054306657,40.76221990574054,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çınar-1(Uğursuyu),612,Çınar-1(Uğursuyu),Kamu,5,Hamamüstü,Point,esriGeometryPoint,31.21028806329782,40.7358034216977,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Hasanlar Brj Ve HES,578,Hasanlar Brj Ve HES,Kamu,7,Küçük Melen Ç.,Point,esriGeometryPoint,31.273861208547807,40.91165868793987,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akpınar ,614,Akpınar,Kamu,4,Karadere,Point,esriGeometryPoint,31.36907003294991,40.92334786071833,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cenger -3 HES,1050,Cenger -3 HES,Kamu,Null,Çenger,Point,esriGeometryPoint,31.639669948976653,36.74982571959686,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Manavgat -2 Reg Ve HES,1088,Manavgat -2 Reg Ve HES,Kamu,Null,Manavgat Ç.,Point,esriGeometryPoint,31.690549860137608,37.1096016198532,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kıran,583,Kıran,Kamu,1,Ankara Ç.,Point,esriGeometryPoint,31.942088614597704,39.811641960843154,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Buldan HES,1489,Buldan HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,32.004333953802195,41.209941460464236,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kocaoglan Reg. Ve HES,1040,Kocaoglan Reg. Ve HES,Kamu,FZB,Sapadere (Sedre) Ç.,Point,esriGeometryPoint,32.22315214519019,36.44771888377099,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Mavi HES,550,Mavi HES,Kamu,planlama,Göksu,Point,esriGeometryPoint,32.34476236137056,37.26415269993095,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Güney HES,898,Güney HES,Özel(Yap İşlet),Ön rapor,Bartın Irmağı,Point,esriGeometryPoint,32.346220984722706,41.43133939635212,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yeşilöz I,628,Yeşilöz I,Kamu,4,Kirmir Ç.,Point,esriGeometryPoint,32.36062840738884,40.28089942524254,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Atg Kumluca HES,1721,Atg Kumluca HES,Özel(Yap İşlet),Fizibilite,Bartın Irmağı,Point,esriGeometryPoint,32.449046395702425,41.44593566294252,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Berat HES,1075,Berat HES,Kamu,Null,Gevne,Point,esriGeometryPoint,32.452127239837544,36.71071084821577,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Arıt HES,880,Arıt HES,Kamu,planlama,Bartın Irmağı,Point,esriGeometryPoint,32.47664737555639,41.650352142450465,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,İkiler,626,İkiler,Kamu,4,Gerede Ç.,Point,esriGeometryPoint,32.5616598993296,40.85091087247151,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ulus I HES,1709,Ulus I HES,Özel(Yap İşlet),Fizibilite,Bartın Ir.,Point,esriGeometryPoint,32.5861626955292,41.53269646279528,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cürümören HES,887,Cürümören HES,Özel(Yap İşlet),Ön rapor,Null,Point,esriGeometryPoint,32.690123603992305,41.127979350333035,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Nazire HES,885,Nazire HES,Özel(Yap İşlet),Ön rapor,Bartın Irmağı,Point,esriGeometryPoint,32.70755156327036,41.615981547612165,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Deniz HES,889,Deniz HES,Özel(Yap İşlet),Fizibilite,Devrekani Ç.,Point,esriGeometryPoint,32.946996315104,41.88384913776182,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çay HES,906,Çay HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,32.9754135588358,41.83232747531238,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Balkusan 1 HES,557,Balkusan 1 HES,Özel(Yap İşlet),SKHA,Balkusan D.,Point,esriGeometryPoint,33.01680056136373,36.63873850636848,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Lenger-3 HES,22,Lenger-3 HES,Özel(Yap İşlet),SKHA,Kazıklı Dere,Point,esriGeometryPoint,33.03380142121195,36.24062252421607,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ermenek HES,562,Ermenek HES,Kamu,insa halinde,Ermenek Ç.,Point,esriGeometryPoint,33.05812523013569,36.576241533992906,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Berke HES,913,Berke HES,Özel(Yap İşlet),Ön rapor,Null,Point,esriGeometryPoint,33.09054263946087,41.91725456661153,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kutsal -2 HES,933,Kutsal -2 HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,33.13925522982957,41.218466282406844,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Boyalı HES,1488,Boyalı HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,33.16223458491756,41.06694018703525,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ege -2 HES,883,Ege -2 HES,Özel(Yap İşlet),Fizibilite,Valay Ç.,Point,esriGeometryPoint,33.33201977960145,41.825586040019395,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çayaltı HES,907,Çayaltı HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,33.443651062762406,41.59269249375281,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Hisarköy HES,35,Hisarköy HES,Özel(Yap İşlet),Ön rapor,Kurtsuyu,Point,esriGeometryPoint,33.55940299689318,36.53103826396248,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sarıkavak HES,52,Sarıkavak HES,Özel(Yap İşlet),SKHA,Kurtsuyu,Point,esriGeometryPoint,33.594935051969856,36.57920168730708,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Linlin-3,1843,Linlin-3,Kamu,"master plan, öninceleme",Kovanlıkdere,Point,esriGeometryPoint,27.120015107531913,39.77777843452615,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kocadere,1841,Kocadere,Kamu,"master plan, öninceleme",Kocadere,Point,esriGeometryPoint,28.458312499866278,39.360216825181546,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sırma HES,1692,Sırma HES,,Null,Akçay,Point,esriGeometryPoint,28.473848853639993,37.60515441352595,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yemişendere HES,1697,Yemişendere HES,,Null,Mortuma Ç.,Point,esriGeometryPoint,28.572520333962636,37.24888824969983,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gündoğdu HES,505,Gündoğdu HES,Özel(Yap İşlet),SKHA,Emet Ç.,Point,esriGeometryPoint,28.57353454060995,39.89124929211886,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Namnam HES,1682,Namnam HES,,Null,Namnam,Point,esriGeometryPoint,28.63209843963897,37.08561376706737,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Tirkemiş HES,1696,Tirkemiş HES,,Null,Derin Dere,Point,esriGeometryPoint,28.747930968922155,37.0803463384488,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yuvarlakçay HES,1701,Yuvarlakçay HES,,Null,Yuvarlakçay,Point,esriGeometryPoint,28.804290562461134,36.92556233528637,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sülek HES,1694,Sülek HES,,Null,Akçay,Point,esriGeometryPoint,28.815280259694887,37.23187324731232,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A.Dalaman HES 3,1937,A.Dalaman HES 3,,Null,Dalaman Ç.,Point,esriGeometryPoint,28.84499969245737,36.87863040219896,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aziz HES,1622,Aziz HES,,Null,Kara Dere,Point,esriGeometryPoint,28.88868325814815,36.81486366288544,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yenicekent HES,1698,Yenicekent HES,,Null,B.Menderes N.,Point,esriGeometryPoint,28.96548297455723,38.04354155230583,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Keserali HES,1677,Keserali HES,,Null,Kızıldere,Point,esriGeometryPoint,29.071442208821708,36.789910415615886,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çukurincir HES,1644,Çukurincir HES,,Null,Eşençay,Point,esriGeometryPoint,29.31882265229571,36.357398067629504,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A.Eşen HES -2,1942,A.Eşen HES -2,,Null,Eşençay,Point,esriGeometryPoint,29.325452351678813,36.39230707321144,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Suluköy HES,509,Suluköy HES,Özel(Yap İşlet),SKHA,Acısu D.+Ulupınar D.,Point,esriGeometryPoint,29.403182937442917,40.04228808931343,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çökek HES,1643,Çökek HES,,Null,Tezli Dere,Point,esriGeometryPoint,29.439666292303862,36.682849890256044,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yapraklı HES,1381,Yapraklı HES,Özel(Yap İşlet),MP,Yapraklı Barajı,Point,esriGeometryPoint,29.452908209988117,37.02373494790583,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dodurgalar HES I,1649,Dodurgalar HES I,,Null,Erceöz D.,Point,esriGeometryPoint,29.60535051947926,37.3963469447762,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kirazdere2 HES,514,Kirazdere2 HES,Özel(Yap İşlet),EPDK,Kirazdere,Point,esriGeometryPoint,29.864372351887898,40.64521792596726,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Alakir HES,1083,Alakir HES,Kamu,Null,Alakır Ç.,Point,esriGeometryPoint,30.260853451753412,36.37377769317502,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Doğançay HES,523,Doğançay HES,Kamu,planlama,Sakarya N.,Point,esriGeometryPoint,30.33617514703722,40.636104700380606,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Candır 2 HES,1094,Candır 2 HES,Kamu,EIE,Çandır Ç.,Point,esriGeometryPoint,30.39810913554512,36.746933594605835,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Doyran Reg Ve HES,1071,Doyran Reg Ve HES,Kamu,Null,Doyran Ç.,Point,esriGeometryPoint,30.496823518389206,36.885360676593656,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Pazarköy HES,526,Pazarköy HES,Kamu,planlama,Dinsiz Ç.,Point,esriGeometryPoint,30.64551339793956,40.659623661161106,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Mansurlar HES,527,Mansurlar HES,Kamu,planlama,Mudurnu Ç.,Point,esriGeometryPoint,30.746231417674316,40.580266213360495,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kovada -2 HES,1386,Kovada -2 HES,Kamu,isletmede,Kovada Ç.,Point,esriGeometryPoint,30.824236095342748,37.597000239212406,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yürse HES,528,Yürse HES,Kamu,planlama,Mudurnu Ç.,Point,esriGeometryPoint,30.923000435264132,40.58110030634589,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Defne,613,Defne,Kamu,5,Aksu D.,Point,esriGeometryPoint,30.964670335957727,40.701496993146925,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aksu Regülatörü Ve HES,1368,Aksu Regülatörü Ve HES,Özel(Yap İşlet),PL,Aksu Ç.,Point,esriGeometryPoint,31.141914560859295,37.61388017155893,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kuyulutaş Regülatörü Ve HES,1379,Kuyulutaş Regülatörü Ve HES,Özel(Yap İşlet),MP,Kocadere,Point,esriGeometryPoint,31.283032043740626,38.396252430193876,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cerle Dolluk HES,1090,Cerle Dolluk HES,Kamu,Null,Cerle D.,Point,esriGeometryPoint,31.28561782409183,37.11544183365074,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Esra,580,Esra,Kamu,1,Aladağ Ç.,Point,esriGeometryPoint,31.516268628807,40.43422227627875,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sürmenek,590,Sürmenek,Kamu,5,Aladağ Ç.,Point,esriGeometryPoint,31.692131200393643,40.29608607127109,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cenger -2 HES,1049,Cenger -2 HES,Kamu,Null,Çenger,Point,esriGeometryPoint,31.765801925523334,36.784014475224936,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Delikli,601,Delikli,Kamu,4,Süvari Ç.,Point,esriGeometryPoint,32.056088028279426,40.3230967083174,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cemal Ovası HES,1719,Cemal Ovası HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,32.0962068879856,41.299542192443795,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Uçankaya,1098,Uçankaya,Özel(Yap İşlet),Fizibilite,Alara Ç.,Point,esriGeometryPoint,32.10872402761442,36.78064896511361,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dereli,595,Dereli,Kamu,5,Süvari Ç.,Point,esriGeometryPoint,32.11941628780791,40.248972086699474,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gazıpasa Delıce Reg.Ve HES,1038,Gazıpasa Delıce Reg.Ve HES,Kamu,FZB,Delice Ç.,Point,esriGeometryPoint,32.308812104602524,36.34743440202589,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Adanda Regülatörü Ve HES,1036,Adanda Regülatörü Ve HES,Kamu,FZB,Adanda Ç.,Point,esriGeometryPoint,32.41356623595022,36.24501265181025,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Karapınar HES,1043,Karapınar HES,Kamu,FZB,Gevne Ç.,Point,esriGeometryPoint,32.43223277751991,36.605389445972754,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Taşkent HES,560,Taşkent HES,Özel(Yap İşlet),Fizibilite,Sazak D.,Point,esriGeometryPoint,32.502453834689945,36.92448155047006,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yalman HES,540,Yalman HES,Özel(Yap İşlet),Fizibilite,Kışla D.,Point,esriGeometryPoint,32.79171107657637,36.65907065518684,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Damlapınar HES,546,Damlapınar HES,Özel(Yap İşlet),Lisans,Göksu,Point,esriGeometryPoint,32.83581002319438,37.035888601501185,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Alaköprü HES,94,Alaköprü HES,Kamu,planlama,Anamur Ç.,Point,esriGeometryPoint,32.89176612719255,36.18345724779011,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bucakkışla HES,547,Bucakkışla HES,Özel(Yap İşlet),SKHA,Göksu,Point,esriGeometryPoint,33.08963910303539,36.91470415353218,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ilıca HES,902,Ilıca HES,Özel(Yap İşlet),Fizibilite,Devrekani Ç.,Point,esriGeometryPoint,33.15957209957423,41.657462150316086,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Saran HES,39,Saran HES,Özel(Yap İşlet),SKHA,Göksu N.,Point,esriGeometryPoint,33.36653842425849,36.63750455434783,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sarıbucak HES,38,Sarıbucak HES,Özel(Yap İşlet),Fizibilite,Kurtsuyu,Point,esriGeometryPoint,33.57141098676072,36.54753443408819,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Hamzalı,579,Hamzalı,Kamu,insa halinde,Kızılırmak N.,Point,esriGeometryPoint,33.65000163008916,40.291077249580695,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dinç HES,79,Dinç HES,Kamu,insa halinde,Sason Dere,Point,esriGeometryPoint,33.65051832733381,36.640263455947164,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Silifke I HES,108,Silifke I HES,Kamu,isletmede,Sulama Kanalı,Point,esriGeometryPoint,33.94292503345804,36.39055104989007,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ebru -3 HES,1487,Ebru -3 HES,Özel(Yap İşlet),Fizibilite,İlişi Ve Ezine Çayları,Point,esriGeometryPoint,34.030242579078816,41.94023179741762,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gönen,1787,Gönen,Özel(Yap İşlet Devret),SKHA,Gönen Ç.,Point,esriGeometryPoint,27.446142266054522,39.97136378216292,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Manyas,1835,Manyas,Kamu,insa halinde,Kocaçay,Point,esriGeometryPoint,27.781755236883736,39.97494456029363,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Deveci Konağı HES,513,Deveci Konağı HES,Özel(Yap İşlet),SKHA,Emet Ç.,Point,esriGeometryPoint,28.58867515336517,39.86872677272076,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akçay I Barajı Ve HES,1948,Akçay I Barajı Ve HES,,Null,Akçay,Point,esriGeometryPoint,28.6399682444891,37.376736718140805,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kavakçalı HES,1674,Kavakçalı HES,,Null,Namnam,Point,esriGeometryPoint,28.662329795484972,37.09540374403067,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Uluabat HES,516,Uluabat HES,Özel(Yap İşlet),Lisans,Orhaneli Ç.,Point,esriGeometryPoint,28.723513425903338,40.15311650332988,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Karataş I HES,1671,Karataş I HES,,Null,Gökçay,Point,esriGeometryPoint,29.04249968813908,37.03676085560835,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sedef HES,512,Sedef HES,Özel(Yap İşlet),Fizibilite,Akçay Ve Güvercinlik D.,Point,esriGeometryPoint,29.22699261554908,40.161856722069984,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çayanköy HES,1639,Çayanköy HES,,Null,Y.Akçay Kanalı,Point,esriGeometryPoint,29.31217490642266,36.76946283586957,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çobanlar HES,1642,Çobanlar HES,,Null,Eşençay,Point,esriGeometryPoint,29.39952318506495,36.76567358875006,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bayırköy HES,1626,Bayırköy HES,,Null,Sarıçay D.,Point,esriGeometryPoint,29.441406446901855,36.73055116504643,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akalan Regülatörü Ve HES,1042,Akalan Regülatörü Ve HES,Kamu,FZB,Uçarsu D.,Point,esriGeometryPoint,29.658201783000635,36.552948527675206,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Göksu HES,515,Göksu HES,Özel(Yap İşlet),Fizibilite,Göksu,Point,esriGeometryPoint,29.887553813710245,40.3456023618588,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Pamukova HES,534,Pamukova HES,Özel(Yap İşlet),Isletmede,Sakarya N.,Point,esriGeometryPoint,30.04921888738424,40.42976969818724,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Altinyaka I-2--3 HES,1082,Altinyaka I-2--3 HES,Kamu,Null,Gödene,Point,esriGeometryPoint,30.288434757155176,36.54677839222472,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kurce Reg Ve HES,1079,Kurce Reg Ve HES,Kamu,Null,Alakır Ç.,Point,esriGeometryPoint,30.314301391451774,36.61393520082073,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kepez 1-2,1028,Kepez 1-2,Kamu,Null,Aksu,Point,esriGeometryPoint,30.619468630876074,36.94483347751383,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A-S HES,1374,A-S HES,Özel(Yap İşlet),PL,Isparta Ç.,Point,esriGeometryPoint,30.657781910867698,37.68549447215311,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Düden,1026,Düden,Kamu,Null,Düden Ç.,Point,esriGeometryPoint,30.784357489132727,36.86079999669256,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Isparta-Kovada Reg. Ve HES,1388,Isparta-Kovada Reg. Ve HES,Özel(Yap İşlet),PL,Kovada-Aksu Ç.,Point,esriGeometryPoint,30.85357155261198,37.6165396418251,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Beskonak,1030,Beskonak,Kamu,Null,Köprüçay Ç.,Point,esriGeometryPoint,31.225478102595844,37.05539920469644,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kaya,5,Kaya,Kamu,4,Abant D.,Point,esriGeometryPoint,31.450358095419663,40.69376188281147,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çaltepe,573,Çaltepe,Kamu,planlama,Aladağ Ç.,Point,esriGeometryPoint,31.671892553979482,40.22931680114083,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ulu,606,Ulu,Kamu,4,Aladağ Ç.,Point,esriGeometryPoint,31.691996835298934,40.345715730532035,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kanyon HES,1056,Kanyon HES,Kamu,FZB,Çingen D.,Point,esriGeometryPoint,31.69732476062202,36.7960691008469,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kaynak HES,1052,Kaynak HES,Kamu,Null,Manavgat Ç.,Point,esriGeometryPoint,31.702026271887345,37.1306104455873,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kaplan,581,Kaplan,Kamu,1,Sakarya N.,Point,esriGeometryPoint,31.948540899708725,39.80657325318968,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kayabükü,571,Kayabükü,Kamu,insa halinde,Devrek Ç.,Point,esriGeometryPoint,31.965686922962668,40.93740649699781,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Han Reg Ve HES,1073,Han Reg Ve HES,Kamu,Null,Kargı Ç.,Point,esriGeometryPoint,32.070854068166504,36.65949879367336,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bucakkoy HES,1097,Bucakkoy HES,Kamu,Null,Dim Ç.,Point,esriGeometryPoint,32.255273062408804,36.57798734042635,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yeşilöz -2,629,Yeşilöz -2,Kamu,4,Kirmir Ç.,Point,esriGeometryPoint,32.26803491037731,40.2427218838266,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Uzunburun HES,1711,Uzunburun HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,32.28438493975072,41.21232530168469,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Narlica -2 HES,1077,Narlica -2 HES,Kamu,Null,Gökçeler Ç.,Point,esriGeometryPoint,32.42593110023615,36.320804938543496,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Karakaya HES,926,Karakaya HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,32.44780833424655,41.1976205648268,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Arıt HES,1481,Arıt HES,Özel(Yap İşlet),Ön rapor,Bartın Irmağı,Point,esriGeometryPoint,32.47664737555639,41.650352142450465,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çatacık HES,879,Çatacık HES,Kamu,"master plan, öninceleme",Filyos Ir.,Point,esriGeometryPoint,32.48954660741164,40.98000082499054,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Pirinçlik HES,1705,Pirinçlik HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,32.57929821969536,41.168089668818325,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dineksaray HES,553,Dineksaray HES,Kamu,planlama,A.H.İ Kanalı,Point,esriGeometryPoint,32.59158669146414,37.38208142590726,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Magara HES,1702,Magara HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,32.660607047518205,41.25369069759243,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yeşilköy HES,561,Yeşilköy HES,Özel(Yap İşlet),Fizibilite,Ermenek Ç.,Point,esriGeometryPoint,32.73281019130032,36.57203738880642,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dağbaşı HES,25,Dağbaşı HES,Özel(Yap İşlet),Fizibilite,Anamur Ç.,Point,esriGeometryPoint,32.776925610758845,36.289391958950375,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Otluca I HES,89,Otluca I HES,Kamu,planlama,Sugözü Dere,Point,esriGeometryPoint,32.82218308808706,36.239211995855364,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bozyazı HES,109,Bozyazı HES,Kamu,isletmede,Bakır Ç.,Point,esriGeometryPoint,32.98166575913065,36.123658200762925,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bozyazı HES,20,Bozyazı HES,Özel(Yap İşlet),SKHA,Bozyazı Ç.,Point,esriGeometryPoint,33.01374467002956,36.19269905366692,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Tor HES,900,Tor HES,Özel(Yap İşlet),Fizibilite,Devrekani Ç.,Point,esriGeometryPoint,33.08270909299559,41.713940159037044,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kutsal I HES,931,Kutsal I HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,33.13355991863437,41.169162614026575,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Turkmenoglu HES,1708,Turkmenoglu HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,33.18972848384515,41.18003277298968,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Zala HES,1715,Zala HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,33.24354703667758,41.23371558322266,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gezende HES,36,Gezende HES,Kamu,isletmede,Göksu N.,Point,esriGeometryPoint,33.27378242386704,36.56047048135441,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Fakas -2 HES,922,Fakas -2 HES,Özel(Yap İşlet),Ön rapor,Fakas Ç.,Point,esriGeometryPoint,33.32585328955458,41.982392032084654,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ege I HES,882,Ege I HES,Özel(Yap İşlet),Fizibilite,Valay Ç.,Point,esriGeometryPoint,33.39247507415919,41.8261786668933,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Köprükale,632,Köprükale,Kamu,4,Kızılırmak N.,Point,esriGeometryPoint,33.42417225442904,39.9283322312997,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kapulukaya Brj Ve HES,577,Kapulukaya Brj Ve HES,Kamu,isletmede,Kızılırmak N.,Point,esriGeometryPoint,33.48650671773313,39.730543714161456,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çeşmebaşı,608,Çeşmebaşı,Kamu,5,Kızılırmak N.,Point,esriGeometryPoint,33.53583345729831,40.128082823824926,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Degirmenönü HES,893,Degirmenönü HES,Özel(Yap İşlet),Fizibilite,Zarbana Ç.,Point,esriGeometryPoint,33.70700212200586,41.84301139297335,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Zerve -2 HES,1717,Zerve -2 HES,Özel(Yap İşlet),Ön rapor,Zerve Ç.,Point,esriGeometryPoint,33.88677333339098,41.9533120078921,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ayazma-I,1836,Ayazma-I,Kamu,"master plan, öninceleme",Ayazma D.,Point,esriGeometryPoint,26.80517129507856,39.758354415419156,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Susurluk,1847,Susurluk,Kamu,"master plan, öninceleme",Susurluk Ç.,Point,esriGeometryPoint,28.184295582892133,39.83403368305595,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çaygören,1788,Çaygören,Özel(Yap İşlet),SKHA,Simav Ç.,Point,esriGeometryPoint,28.214125061451014,39.27150869215644,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akçay HES,1947,Akçay HES,,Null,Akçay,Point,esriGeometryPoint,28.309431043592337,37.78769910852094,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Feslek HES,1659,Feslek HES,,Null,Feslek  Sağ Kan.,Point,esriGeometryPoint,28.631876803031147,37.9147506499555,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dursunbey,1839,Dursunbey,Kamu,"master plan, öninceleme",Bahçeler D.,Point,esriGeometryPoint,28.70877789292752,39.447606542713906,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Eceana -2 HES,1652,Eceana -2 HES,,Null,Eceana D.,Point,esriGeometryPoint,28.71105421891342,37.00705564905882,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bağcı HES,1623,Bağcı HES,,Null,Yuvarlakçay,Point,esriGeometryPoint,28.797542465598152,36.91387281368191,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sandras HES -2,1687,Sandras HES -2,,Null,Çayhisar D.,Point,esriGeometryPoint,28.854519963618255,37.01199417512638,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A.Dalaman HES 2,1936,A.Dalaman HES 2,,Null,Dalaman Ç.,Point,esriGeometryPoint,28.860201174606726,36.884922885719995,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çaldere HES,1634,Çaldere HES,,Null,Çaldere,Point,esriGeometryPoint,28.999411336616813,36.93420761460772,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Göcek HES,1661,Göcek HES,,Null,Kızıldere,Point,esriGeometryPoint,29.045413194767693,36.81720557933559,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ege -2--3-4 HES,1654,Ege -2--3-4 HES,,Null,Çürüksu Sol Kan.,Point,esriGeometryPoint,29.10552901255783,37.84409510485602,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sarıkavak HES,1689,Sarıkavak HES,,Null,Değne Ç.,Point,esriGeometryPoint,29.20232947291471,37.013054938870305,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Değirmendere,1646,Değirmendere,,Null,Gökdere,Point,esriGeometryPoint,29.209112356270307,37.20360489169762,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çameli I HES,1636,Çameli I HES,,Null,Kanlıçay,Point,esriGeometryPoint,29.224404809926117,36.972585277678576,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sercenser HES-1,1691,Sercenser HES-1,,Null,Dalaman Ç.,Point,esriGeometryPoint,29.228215294989344,37.183913350686815,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akdere HES,1950,Akdere HES,,Null,Akdere,Point,esriGeometryPoint,29.302542671740976,37.3269532913908,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A.Eşen HES -3,1943,A.Eşen HES -3,,Null,Eşençay,Point,esriGeometryPoint,29.315096883196397,36.36384497714999,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kemer HES,1676,Kemer HES,,Null,Seki Ç.,Point,esriGeometryPoint,29.368258279183223,36.719236343740405,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akkent HES,1952,Akkent HES,,Null,B.Menderes N.,Point,esriGeometryPoint,29.372321646762533,38.1969108628814,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kozaklı HES,1680,Kozaklı HES,,Null,Sarıçay D.,Point,esriGeometryPoint,29.419208791870133,36.73855640448407,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Tüfekçikonağı HES,508,Tüfekçikonağı HES,Özel(Yap İşlet),EPDK,Saçmalı Dere,Point,esriGeometryPoint,29.67329458454255,39.91903734750317,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Geriz Regülatörü Ve HES,1377,Geriz Regülatörü Ve HES,Özel(Yap İşlet),PL,Su Çıktığın Dere,Point,esriGeometryPoint,29.78082758310612,37.05020023282146,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kazandere HES,1059,Kazandere HES,Kamu,FZB,Gürleyik,Point,esriGeometryPoint,29.806981062705933,36.94261504043827,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kozdere HES,1078,Kozdere HES,Kamu,Null,Alakır Ç.,Point,esriGeometryPoint,30.27856016596133,36.543959158541654,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Alakır -2 Reg Ve HES,1080,Alakır -2 Reg Ve HES,Kamu,Null,Alakır Ç.,Point,esriGeometryPoint,30.323719563449092,36.68907936365744,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çaygözü HES,1376,Çaygözü HES,Özel(Yap İşlet),MP,Çaygözü Pınarı,Point,esriGeometryPoint,30.473945553621082,37.65283878615066,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akyar Reg. Ve HES(Akyar -2),1057,Akyar Reg. Ve HES(Akyar -2),Kamu,FZB,Karaman Ç.,Point,esriGeometryPoint,30.571309548589316,36.9388875497705,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökbel -2 HES,1367,Gökbel -2 HES,Özel(Yap İşlet),PL,Isparta Ç.,Point,esriGeometryPoint,30.72464092272845,37.646254848613,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Karacaören -2 HES,1031,Karacaören -2 HES,Kamu,Null,Aksu Ç.,Point,esriGeometryPoint,30.794902279801136,37.266254997162186,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Tütünlük,587,Tütünlük,Kamu,1,AksuD.,Point,esriGeometryPoint,30.852884573002434,40.71118038219745,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kızıllı HES,1369,Kızıllı HES,Özel(Yap İşlet),PL,Gelen Ç.,Point,esriGeometryPoint,30.92737634856538,37.33588775463861,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çınar-1(Soğuksu),611,Çınar-1(Soğuksu),Kamu,5,Soğuksu,Point,esriGeometryPoint,31.2098859247998,40.73552615468845,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Hasanlar Kanal,575,Hasanlar Kanal,Kamu,planlama,Küçük Melen Ç.,Point,esriGeometryPoint,31.222208433182498,40.90869752345998,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bekçan Regülatörü Ve HES,1378,Bekçan Regülatörü Ve HES,Özel(Yap İşlet),MP,Söğütözü Dere,Point,esriGeometryPoint,31.232683154115445,38.45077435852569,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Güneş,621,Güneş,Kamu,5,Hamamsuyu,Point,esriGeometryPoint,31.24021183746559,40.72265491846828,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aralık HES,1482,Aralık HES,Özel(Yap İşlet),Ön rapor,Alaplı Ç.,Point,esriGeometryPoint,31.445820478364947,41.13793426449189,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökçeağaç,2,Gökçeağaç,Kamu,4,Karadere,Point,esriGeometryPoint,31.451101698402052,40.88098178249616,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Susuz,603,Susuz,Kamu,4,Açça Ç.,Point,esriGeometryPoint,31.595102412536882,40.332535114061244,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bakırlı (Aladağ-1) ,596,Bakırlı (Aladağ-1),Kamu,4,Aladağ Ç.,Point,esriGeometryPoint,31.61063728429713,40.36937844376369,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bayırca HES,1074,Bayırca HES,Kamu,Null,Manavgat Ç.,Point,esriGeometryPoint,31.682371973076926,37.19718901955137,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Belen,599,Belen,Kamu,4,Ulu Ç.,Point,esriGeometryPoint,31.704460513477688,40.34436742160158,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cenger I HES,1048,Cenger I HES,Kamu,Null,Çenger,Point,esriGeometryPoint,31.817378819085626,36.83442347584978,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Devrek HES,890,Devrek HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,31.95444749829236,41.20943530812781,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Girmir,634,Girmir,Kamu,4,Kirmir Ç.,Point,esriGeometryPoint,31.97266212964042,40.10069924905011,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Mutlu-1,585,Mutlu-1,Kamu,1,Kirmir Ç.,Point,esriGeometryPoint,32.07468095927457,40.13193353559292,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yayla -2 HES,1,Yayla -2 HES,Kamu,4,Ağıl D.,Point,esriGeometryPoint,32.22833051195702,40.916128440230686,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Alel 5 HES,1478,Alel 5 HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,32.25715913890785,41.097825125578396,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökdere HES,543,Gökdere HES,Özel(Yap İşlet),SKHA,Ermenek Ç.,Point,esriGeometryPoint,32.539323679769375,36.566333793762354,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Orsa I HES,1704,Orsa I HES,Özel(Yap İşlet),Ön rapor,Bartın Irmağı,Point,esriGeometryPoint,32.607029632990105,41.48749436103595,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Daran 1 HES,544,Daran 1 HES,Özel(Yap İşlet),SKHA,Ermenek Ç.,Point,esriGeometryPoint,32.618907400935406,36.56266178439779,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ketir HES,559,Ketir HES,Özel(Yap İşlet),Fizibilite,Fariske Ç.,Point,esriGeometryPoint,32.64667220045057,36.619801922082175,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ulus -2 HES,1710,Ulus -2 HES,Özel(Yap İşlet),Fizibilite,Bartın Ir.,Point,esriGeometryPoint,32.65610959442113,41.5840989234555,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Günder HES,542,Günder HES,Özel(Yap İşlet),SKHA,Günder Ç.,Point,esriGeometryPoint,32.67424618905476,36.56571232789877,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dogan HES,894,Dogan HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,32.69332377645545,41.12633342917364,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Başak HES,911,Başak HES,Özel(Yap İşlet),Fizibilite,Null,Point,esriGeometryPoint,32.75335366778381,41.841918283909955,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Anamur HES,110,Anamur HES,Kamu,isletmede,Anamur Ç.,Point,esriGeometryPoint,32.83404360040787,36.07912000689946,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Zeyve HES,538,Zeyve HES,Özel(Yap İşlet),SKHA,Zeyve Ç.,Point,esriGeometryPoint,32.94132698231001,36.50746503625481,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kepezkaya HES,541,Kepezkaya HES,Özel(Yap İşlet),SKHA,Göksu,Point,esriGeometryPoint,33.0078512274963,36.95338117344151,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Ege -3 HES,884,Ege -3 HES,Özel(Yap İşlet),Fizibilite,Valay Ç.,Point,esriGeometryPoint,33.23807115057453,41.81563476007762,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Azmak I HES,26,Azmak I HES,Özel(Yap İşlet),SKHA,Ermenek Ç.,Point,esriGeometryPoint,33.29351000461659,36.56734491457368,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kirpilik  HES,28,Kirpilik  HES,Özel(Yap İşlet),SKHA,Ermenek Ç.,Point,esriGeometryPoint,33.34857510274171,36.58332439437224,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kalecik,592,Kalecik,Kamu,5,Kızılırmak N.,Point,esriGeometryPoint,33.448103289439786,40.06400077386527,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Hirfanlı Brj. Ve HES,567,Hirfanlı Brj. Ve HES,Kamu,isletmede,Kızılırmak N.,Point,esriGeometryPoint,33.52080163871042,39.273164556908,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Silifke 22 HES,29,Silifke 22 HES,Kamu,"master plan, öninceleme",Göksu N.,Point,esriGeometryPoint,33.92316016298971,36.40093801522504,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Lamas Gökler HES,96,Lamas Gökler HES,Özel(Yap İşlet Devret),Insa Halinde,Lamas Ç.,Point,esriGeometryPoint,33.94344512267724,36.73309696412952,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Mıhlı,1846,Mıhlı,Kamu,"master plan, öninceleme",Mıhlı Ç.,Point,esriGeometryPoint,26.65218010965921,39.584806720878,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bakacak,1794,Bakacak,Özel(Yap İşlet),Fizibilite,Kocaçay,Point,esriGeometryPoint,27.02213459391488,40.18565078632295,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökbel Barajı Ve HES,1662,Gökbel Barajı Ve HES,,Null,Çine Ç.,Point,esriGeometryPoint,28.059983996972814,37.52728830176901,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çine Barajı Ve HES,1641,Çine Barajı Ve HES,,Null,Çine Ç.,Point,esriGeometryPoint,28.11026046057495,37.508677569444096,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökçay HES,1663,Gökçay HES,,Null,Gökçay,Point,esriGeometryPoint,28.25618320852184,37.48092525102012,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Göktepe HES,1664,Göktepe HES,,Null,Sarhoş Dere,Point,esriGeometryPoint,28.548372356344252,37.41699872104132,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Seher HES,1690,Seher HES,,Null,Namnam,Point,esriGeometryPoint,28.56866354396279,37.045143431327226,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Demirciler,1647,Demirciler,,Null,Akçay,Point,esriGeometryPoint,28.73283383425175,37.29135417286292,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A.Dalaman HES 6,1940,A.Dalaman HES 6,,Null,Dalaman Ç.,Point,esriGeometryPoint,28.79261651482295,36.83529006160542,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A.Dalaman HES 5,1939,A.Dalaman HES 5,,Null,Dalaman Ç.,Point,esriGeometryPoint,28.813530256117318,36.86488003364345,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gürleyik HES,1668,Gürleyik HES,,Null,Gürleyik D.,Point,esriGeometryPoint,28.992595886031598,36.93523438114889,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Nilüfer Egemen HES,511,Nilüfer Egemen HES,Özel(Yap İşlet),Lisans,Nilüfer Ç.,Point,esriGeometryPoint,29.00148931877423,40.0707552090812,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Narlı Barajı HES,1683,Narlı Barajı HES,,Null,Dalaman Ç.,Point,esriGeometryPoint,29.023275060201136,36.973892704591655,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Maltepe HES,1681,Maltepe HES,,Null,Çaldere,Point,esriGeometryPoint,29.068732056566084,36.90935161434075,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Adıgüzel -2 HES,1945,Adıgüzel -2 HES,,Null,B.Menderes N.,Point,esriGeometryPoint,29.161492067569046,38.13150102784162,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akhan HES,1951,Akhan HES,,Null,Akhan İsale Kan.,Point,esriGeometryPoint,29.202810658709573,37.80235873964486,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Bereket HES -2,1628,Bereket HES -2,,Null,Çuruksu Sağ S K,Point,esriGeometryPoint,29.229512562733376,37.80128172696133,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gözede1 HES,517,Gözede1 HES,Özel(Yap İşlet),Lisans,Deliçay,Point,esriGeometryPoint,29.30191482970424,40.14764400834816,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Burgular Gebes HES,1046,Burgular Gebes HES,Kamu,Null,Eşen Ç.,Point,esriGeometryPoint,29.313194127100477,36.37059901768408,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akbaş HES,1946,Akbaş HES,,Null,B.Menderes,Point,esriGeometryPoint,29.32916458746058,38.22609000377582,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dodurgalar HES -2,1650,Dodurgalar HES -2,,Null,Erceöz D.,Point,esriGeometryPoint,29.58173091353058,37.38553750567736,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kayaboğazı HES,520,Kayaboğazı HES,Kamu,planlama,Orhaneli Ç.,Point,esriGeometryPoint,29.618189288761666,39.41830382177258,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aksu HES,1041,Aksu HES,Kamu,FZB,Uçarsu,Point,esriGeometryPoint,29.65393674710018,36.54960351714278,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Korkuteli Reg Ve HES,1087,Korkuteli Reg Ve HES,Kamu,Null,Korkuteli Ç.,Point,esriGeometryPoint,30.070478840185388,37.13938489316861,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kapıcay Barajı Ve HES,1033,Kapıcay Barajı Ve HES,Kamu,Null,Başgöz Ç.,Point,esriGeometryPoint,30.112087644538455,36.466752836227,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kesme HES,1045,Kesme HES,Kamu,FZB,Kesmeboğaz D.,Point,esriGeometryPoint,30.50361559996248,36.595475263204875,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Duralıler I -2 HES,1069,Duralıler I -2 HES,Kamu,Null,Kepez Kanalı Çıkışı,Point,esriGeometryPoint,30.623817705918775,36.90703307166993,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gökbel I HES,1366,Gökbel I HES,Özel(Yap İşlet),PL,Ağlasun Ç.,Point,esriGeometryPoint,30.6963826180976,37.63319251600189,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çukurçay Reg. -2 Ve Narlı -2 HES,1373,Çukurçay Reg. -2 Ve Narlı -2 HES,Özel(Yap İşlet),PL,Çukurçay,Point,esriGeometryPoint,30.814052508633957,37.65130203426472,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Tınaztepe HES,1096,Tınaztepe HES,Kamu,Null,Aksu,Point,esriGeometryPoint,30.81829469000058,37.15287793343741,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kızıllı -2 HES,1064,Kızıllı -2 HES,Kamu,FZB,GevenÇ.,Point,esriGeometryPoint,30.9001906818967,37.36580039088437,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Başak Barajı Ve HES,1375,Başak Barajı Ve HES,Özel(Yap İşlet),PL,Başak D.,Point,esriGeometryPoint,31.160367394153976,37.65224113773955,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Köknar,618,Köknar,Kamu,4,Uğursuyu- Aksu Dere,Point,esriGeometryPoint,31.186042763885922,40.70717622478179,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Uğur (Samandere),627,Uğur (Samandere),Kamu,4,Saman D.,Point,esriGeometryPoint,31.245569546453176,40.72609995134363,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kaplanbuku HES,1093,Kaplanbuku HES,Kamu,EIE,Kaplanbükü D.,Point,esriGeometryPoint,31.28699146178358,37.0036970801329,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Melen Hacılar,582,Melen Hacılar,Kamu,1,Küçük Melen Ç.,Point,esriGeometryPoint,31.488518162890916,40.96011474782618,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cevizlidere,594,Cevizlidere,Kamu,5,Bozdağ,Point,esriGeometryPoint,31.665701590883373,40.3224535182994,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Degirmen Reg Ve HES,1089,Degirmen Reg Ve HES,Kamu,Null,Kepezyurdu D.,Point,esriGeometryPoint,31.700198294106666,37.18696389025885,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Gürsöğüt HES,525,Gürsöğüt HES,Kamu,planlama,Sakarya N.,Point,esriGeometryPoint,31.771341137287237,39.904784239971754,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Cevizli,623,Cevizli,Kamu,planlama,Cevizli Dere-Hızar D.,Point,esriGeometryPoint,31.991083765945557,40.40383504565794,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Oğuz HES,1099,Oğuz HES,Özel(Yap İşlet),Fizibilite,Alara Ç.,Point,esriGeometryPoint,32.10845150749704,36.78240854893966,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Mutlu-2,584,Mutlu-2,Kamu,1,Kirmir Ç.,Point,esriGeometryPoint,32.12744099010566,40.18065419284006,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Tefen HES,916,Tefen HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,32.14408157181996,41.29387387618422,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çağlar-I,635,Çağlar-I,Kamu,4,Ankara Ç.,Point,esriGeometryPoint,32.17118391867801,39.891451656470885,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Alaboğa HES,1479,Alaboğa HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,32.286982954569574,41.13149727707447,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akörenbeli,597,Akörenbeli,Kamu,4,Ankara Ç.,Point,esriGeometryPoint,32.31086230107249,39.84441836564502,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yenice HES,1712,Yenice HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,32.3529855346767,41.16844780091956,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yaprak HES,1054,Yaprak HES,Kamu,FZB,Gevne Ç.,Point,esriGeometryPoint,32.413252148827986,36.65702103004944,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Alacıkgüney HES,1480,Alacıkgüney HES,Özel(Yap İşlet),Ön rapor,Filyos Ir.,Point,esriGeometryPoint,32.42271705954886,40.89340899295812,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Üçpınar HES,555,Üçpınar HES,Özel(Yap İşlet),Fizibilite,Gevne Ç.,Point,esriGeometryPoint,32.43985258204525,36.811991804004215,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kızılcapınar HES,918,Kızılcapınar HES,Özel(Yap İşlet),Null,Gülüç Ir.,Point,esriGeometryPoint,32.51609280516665,41.52666531957918,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yalnızca HES,917,Yalnızca HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,32.517046719418786,41.163052328096214,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Asarcık HES,565,Asarcık HES,Kamu,"master plan, öninceleme",Asarcık D.,Point,esriGeometryPoint,32.614553704995515,36.879631658379665,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aktaş HES,909,Aktaş HES,Kamu,planlama,Filyos Ir.,Point,esriGeometryPoint,32.71869539843568,41.12137781104178,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Erik HES,564,Erik HES,Kamu,insa halinde,Erik D.,Point,esriGeometryPoint,33.05181979107255,36.567172452703154,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Lenger-1 HES,23,Lenger-1 HES,Özel(Yap İşlet),SKHA,Kazıklı Dere,Point,esriGeometryPoint,33.075493381659115,36.29220872771269,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Azmak -2 HES,27,Azmak -2 HES,Özel(Yap İşlet),SKHA,Ermenek Ç.,Point,esriGeometryPoint,33.321613954329315,36.581917987440775,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Derinçay Mut HES,107,Derinçay Mut HES,Kamu,isletmede,Göksu N.,Point,esriGeometryPoint,33.325930214640934,36.72497306764653,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kesikköprü Brj Ve HES,576,Kesikköprü Brj Ve HES,Kamu,isletmede,Kızılırmak N.,Point,esriGeometryPoint,33.41970442709684,39.397603366555984,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kızılçam HES,929,Kızılçam HES,Özel(Yap İşlet),Fizibilite,Filyos Ir.,Point,esriGeometryPoint,33.561888371053186,41.1887791790786,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Yavuz HES,912,Yavuz HES,Özel(Yap İşlet),Fizibilite,Zarbana Ç.,Point,esriGeometryPoint,33.65783139617827,41.863987963798266,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aybige HES,1484,Aybige HES,Özel(Yap İşlet),Ön rapor,Ezine Ç.,Point,esriGeometryPoint,33.96695425761041,41.774438183426334,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Aydos HES,1483,Aydos HES,Özel(Yap İşlet),Ön rapor,Ezine Ç.,Point,esriGeometryPoint,34.02020570159627,41.81711319930371,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kiraz,1834,Kiraz,Özel(Yap İşlet),Fizibilite,Kocaçay,Point,esriGeometryPoint,26.62634899542581,40.05545863325028,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Manastır,1845,Manastır,Kamu,"master plan, öninceleme",Manastır D.,Point,esriGeometryPoint,26.830330345820485,39.59308162450241,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kapan,1793,Kapan,Özel(Yap İşlet),Fizibilite,Balıklı Ç.,Point,esriGeometryPoint,27.233582573019135,40.18988287602581,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Demirköprü,519,Demirköprü,Kamu,isletmede,Gediz,Point,esriGeometryPoint,28.304055008889208,38.61551075610018,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Alhisar HES,1621,Alhisar HES,,Null,Deliçay,Point,esriGeometryPoint,28.37073787381604,37.612482292862325,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akyürek HES,1620,Akyürek HES,,Null,Akçay,Point,esriGeometryPoint,28.64495307126418,37.36398667179524,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sandras HES I,1686,Sandras HES I,,Null,Çayhisar D.,Point,esriGeometryPoint,28.853081850078052,37.04182631758866,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Akköprü Barajı Ve HES,1953,Akköprü Barajı Ve HES,,Null,Dalaman Ç.,Point,esriGeometryPoint,28.902742127759787,36.89563032222062,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Kargı HES,1673,Kargı HES,,Null,Kargı Ç.,Point,esriGeometryPoint,29.062915779854336,36.7382208424481,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Sami Soydam B. Ve HES,1685,Sami Soydam B. Ve HES,,Null,Dalaman Ç.,Point,esriGeometryPoint,29.064304005321763,37.04530791029575,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çatak HES,1638,Çatak HES,,Null,Çatak Suyu,Point,esriGeometryPoint,29.176183968663384,37.24216058808837,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A.Eşen HES 4,1944,A.Eşen HES 4,,Null,Eşençay,Point,esriGeometryPoint,29.3055449638601,36.31245699041167,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,A.Eşen HES I,1941,A.Eşen HES I,,Null,Eşençay,Point,esriGeometryPoint,29.328753377474268,36.43605328208037,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çal HES,1633,Çal HES,,Null,B.Menderes N.,Point,esriGeometryPoint,29.391633698789622,38.18815638656165,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Çaygözü HES,1640,Çaygözü HES,,Null,Eşençay,Point,esriGeometryPoint,29.404359059768595,36.76912649958053,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Buldurat HES,1630,Buldurat HES,,Null,Dikilitaş Dere,Point,esriGeometryPoint,29.405431699776724,36.56843664030638,4326,4326
+25,İşletme Durumuna Göre HES,HES_ADI,Dar4eren HES,1645,Dar4eren HES,,Null,Acıpayam Sul.Kan.,Point,esriGeometryPoint,29.502603588569198,37.26455111210324,4326,4326

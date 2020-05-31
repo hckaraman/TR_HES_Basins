@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAGA_METADATA>
+  <DATABASE>
+    <FIELDS>
+      <FIELD TYPE="STRING">Source</FIELD>
+      <FIELD TYPE="LONGINT">layerId</FIELD>
+      <FIELD TYPE="STRING">layerName</FIELD>
+      <FIELD TYPE="STRING">displayFie</FIELD>
+      <FIELD TYPE="STRING">value</FIELD>
+      <FIELD TYPE="LONGINT">attributes</FIELD>
+      <FIELD TYPE="STRING">attribut_1</FIELD>
+      <FIELD TYPE="STRING">attribut_2</FIELD>
+      <FIELD TYPE="STRING">attribut_3</FIELD>
+      <FIELD TYPE="STRING">attribut_4</FIELD>
+      <FIELD TYPE="STRING">attribut_5</FIELD>
+      <FIELD TYPE="STRING">geometryTy</FIELD>
+      <FIELD TYPE="DOUBLE">geometry__</FIELD>
+      <FIELD TYPE="DOUBLE">geometry_1</FIELD>
+      <FIELD TYPE="LONGINT">geometry_2</FIELD>
+      <FIELD TYPE="LONGINT">geometry_3</FIELD>
+    </FIELDS>
+  </DATABASE>
+  <SOURCE></SOURCE>
+  <HISTORY saga-version="7.3.0">
+    <TOOL library="shapes_tools" id="2" name="Merge Layers">
+      <OPTION type="boolean" id="SRCINFO" name="Add Source Information">true</OPTION>
+      <OPTION type="boolean" id="MATCH" name="Match Fields by Name">true</OPTION>
+      <OPTION type="boolean" id="DELETE" name="Delete">false</OPTION>
+      <INPUT_LIST type="shapes_list" id="INPUT" name="Layers">
+        <INPUT type="shapes_list" id="INPUT" name="Layers">
+          <FILE>/home/cak/Desktop/TR_HES_Basins/Data/HES/1.shp</FILE>
+        </INPUT>
+        <INPUT type="shapes_list" id="INPUT" name="Layers">
+          <FILE>/home/cak/Desktop/TR_HES_Basins/Data/HES/2.shp</FILE>
+        </INPUT>
+        <INPUT type="shapes_list" id="INPUT" name="Layers">
+          <FILE>/home/cak/Desktop/TR_HES_Basins/Data/HES/3.shp</FILE>
+        </INPUT>
+        <INPUT type="shapes_list" id="INPUT" name="Layers">
+          <FILE>/home/cak/Desktop/TR_HES_Basins/Data/HES/4.shp</FILE>
+        </INPUT>
+      </INPUT_LIST>
+      <OUTPUT type="shapes" id="MERGED" name="Merged Layer">Merged Layers</OUTPUT>
+    </TOOL>
+  </HISTORY>
+  <FILE></FILE>
+  <DESCRIPTION></DESCRIPTION>
+  <PROJECTION>
+    <OGC_WKT>GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]</OGC_WKT>
+    <PROJ4>+proj=longlat +a=6378137.000000 +b=6356752.314245 +no_defs</PROJ4>
+    <EPSG>-1</EPSG>
+  </PROJECTION>
+</SAGA_METADATA>
