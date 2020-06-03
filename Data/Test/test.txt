@@ -1,0 +1,45 @@
+#	Power Plant Type	COMPANY NAME	PROJECT NAME	Type 	City	Installed Capacity (MWm)	Installed Capacity (MWe)	Capacity Under Construction (Mwe)	Service Capacity (Mwe)	Longtitude	Latitude	Longtitude_!	Latitude_!	Coordinate Ref.
+362	Uzundere I HPP	Dam	R?ZE	63.068	62.152	0	62.152	45.23931486	40.1428615					
+385	Düzce-Aksu HPP	Weir	DÜZCE	48.304	46.2	0	46.2	745932.6215	4926266.042			DS?		
+390	E?lence I HPP	Weir	ADANA	43.63	42.65	0	42.65	34199509	37416527					
+405	Murat HPP	Weir	ADIYAMAN	36.801	35.628	0	35.628	38130798	37563086					
+409	Midilli HPP	Weir	AMASYA	33.423	32.548	0	32.548	36” 01.171’ E	 40” 44.691’ N					
+411	Arpa HPP	Weir	ARTV?N	32.919	32.412	0	32.412	41830444	41314950					
+417	Feke I HPP	Weir	ADANA	30	29.4	0	29.4	1165875.159	4590319.631	1165427.467	4590150.777	DS?-HES		
+419	Yaz?l? I-II-III HPP	Weir	MERS?N	7.355	6.62	6.62	0	-	-					
+427	Günder HPP	Dam	KARAMAN	30.19	28.56	0.34	28.22	32670593	36613323					
+428	Kepezkaya HPP	Weir	KARAMAN	29.4	28	0	28	33005676	36978421					
+430	Çakmak Reg. Ve HPP	Weir	KAHRAMANMARA?	28.23	27.38	0	27.38	36992340	37872227					
+431	Burç Bendi ve HPP	Weir	ADIYAMAN	27.9	27.33	0	27.33	38169937	37478128					
+436	Himmetli Reg ve HPP	Weir	ADANA	27.86	26.98	0	26.98	"37°51'45.0""N"	"36°02'14.7""E"					
+453	Sancar Regülatörü ve HPP	Weir	MALATYA	0.76	0.74	0.74	0	-	-					
+455	Yamaç HPP	Weir	OSMAN?YE	5.61	5.46	5.46	0	-	-					
+460	Yavuz HPP	Weir	AMASYA	23.4	22.5	0	22.5	36172743	40738836					
+466	Avanos Regülatörü ve Cemel HPP	Weir	NEV?EH?R	21.6	20.4	0	20.4	1065456.08	4698100.116			 HES 		
+465	Piro reg. ve HPP	Weir	ORDU	4.28	4.06	4.06	0	-	-					
+468	Polat HPP	Weir	S?VAS	6.98	6.56	6.56	0	-	-					
+471	Ku?akl? HPP	Weir	ADANA	20.5	20	0	20	1150595.707	4584519.082			DS?		
+475	Köyobas? HPP	Weir	KAHRAMANMARA?	1.136	1.07	1.07	0	-	-					
+476	Kayadibi HPP	Weir	BARTIN	20.58	19.56	0	19.56	"41°39'14.4""N"	"32°29'01.7""E"			Google Maps		
+481	Su?ehri HPP		S?VAS	19.089	18.698	0	18.698	1357318.123	4856432.366			HES		
+487	E?er HPP		KÜTAHYA	2.012	1.92	1.92	0	-	-					
+489	Kumköy HPP		SAMSUN	18.21	17.49	0	17.49	"41°05'46.8""N"	"36°41'13.0""E"			Google Maps		
+490	Göksu Reg. Ve HPP		BOLU	17.593	17.177	0	17.177	"40°34'41.1""N "	"30°53'26.8""E"			Google Maps		
+511	Hasanlar Kanal HPP		DÜZCE	4.81	4.68	4.68	0	-	-					
+530	Poyraz HPP		KAHRAMANMARA?	2.8	2.66	2.66	0	-	-					
+529	Erkenek HPP		ADIYAMAN	13.37	13.028	0	13.028	37820435	37881899					
+534	Bükor II HPP		B?LEC?K	13.05	12.6	0	12.6	30165496	40169134					
+536	K?ran HPP		HAKKAR?	9.94	9.74	9.74	0	-	-					
+547	Çar?amba HPP		SAMSUN	11.778	11.31	0	11.31	"41°08'03.6""N"	"36°43'31.2""E"			Google Maps		
+548	Merekler Reg. ve Algölü HPP		ARDAHAN	12.535	11.157	0	11.157	1730653.075	5041897.261			DS?		
+550	Murat HPP		ORDU	11.906	11.09	0	11.09	37724261	40443159					
+563	Ye?ilvadi HPP		HATAY	10.3	9.98	0	9.98	-	-					
+346	K?s?k HPP	Weir	KAHRAMANMARA?	9.6	9.264	9.264	0	-	-					
+348	Kiti HPP	Weir	I?DIR	2.76	2.76	2.76	0	-	-					
+357	K?z?lçam Reg. ve HPP	Dam	KASTAMONU	1.37	1.32	1.32	0							
+380	Kernek HPP	Weir	MALATYA	0.832	0.832	0.832	0	-	-					
+387	Arakl?-3 Reg. ve HPP	Weir	TRABZON	0.65	0.63	0.63	0	-	-					
+370	Gemciler Reg. Ve HPP	Weir	ADIYAMAN	8.4	7.98	7.98	0	-	-					
+														
+														
+ 														
