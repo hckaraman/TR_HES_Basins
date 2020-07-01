@@ -6,8 +6,8 @@ import geopandas as gpd
 
 wbt = whitebox.WhiteboxTools()
 
-folder = '/media/cak/D/KD/KD/Basins/SHP/Havzalar/DEM'
-hes = '/media/cak/D/KD/KD/Basins/SHP/HES_ED50_edit.shp'
+folder = '/home/cak/Desktop/TR_HES_Basins/Data/DEM'
+hes = '/home/cak/Desktop/TR_HES_Basins/Data/HES/HES.shp'
 
 
 def raster2polygon(file, path):
@@ -68,7 +68,8 @@ def full_work_flow(folder):
                 pass
 
             files = glob.glob1(item_full_path, '*.tif')
-            wbt.breach_depressions(os.path.join(item_full_path, files[0]), "DEM_breach.tif")
+            # wbt.breach_depressions(os.path.join(item_full_path, files[0]), "DEM_breach.tif")
+            wbt.breach_depressions(item_full_path, "DEM_breach.tif")
             wbt.fill_depressions("DEM_breach.tif", "DEM_fill.tif")
             wbt.flow_accumulation_full_workflow(
                 "DEM_fill.tif", "DEM_out.tif", "Flow_dir.tif", "Flow_acc.tif", log=False)
@@ -82,7 +83,7 @@ def full_work_flow(folder):
             raster2polygon("Watershed.tif", item_full_path)
     except:
         pass
-    print(files[0])
+    # print(files[0])
 
 
 full_work_flow(folder)
