@@ -1,4 +1,4 @@
- import os, glob
+import os, glob
 import whitebox
 import rasterio
 from rasterio.features import shapes as shp
@@ -10,7 +10,7 @@ folder = '/home/cak/Desktop/TR_HES_Basins/Data/DEM'
 hes = '/home/cak/Desktop/TR_HES_Basins/Data/HES/HES.shp'
 
 
-def raster2polygon(file, path):
+def raster2polygon(file, path, name):
     mask = None
     with rasterio.open(os.path.join(path, file)) as src:
         image = src.read(1)  # first band
@@ -27,7 +27,7 @@ def raster2polygon(file, path):
     # Convert to geojson
     gpd_polygonized_raster.crs = 'epsg:23036'
     gpd_polygonized_raster.crs = 'epsg:4326'
-    name = os.path.basename(path) + '_basins'
+    name = name + '_basins'
     gpd_polygonized_raster.to_file(
         driver='ESRI Shapefile', filename=os.path.join(path, name + ".shp"))
 
@@ -74,7 +74,7 @@ def full_work_flow(folder):
             wbt.fill_depressions("DEM_breach.tif", "DEM_fill.tif")
             wbt.flow_accumulation_full_workflow(
                 "DEM_fill.tif", "DEM_out.tif", "Flow_dir.tif", "Flow_acc.tif", log=False)
-            wbt.extract_streams("Flow_acc.tif", "streams.tif", threshold=-1)
+            wbt.extract_streams("Flow_acc.tif", "streams.tif", threshold=3)
             basin = glob.glob1(item_full_path, '*.shp')
             wbt.clip(hes, basin[0], 'at.shp')
             wbt.snap_pour_points(hes, "Flow_acc.tif",
@@ -90,9 +90,19 @@ def full_work_flow(folder):
 # full_work_flow(folder)
 # rename_all(folder)
 
-hes_folder = r'C:\Users\cagri\Desktop\TR_HES_Basins\Data\HES\Hes_Separeted'
+hes_folder = '/home/cak/Desktop/TR_HES_Basins/Data/HES/Hes_Separeted'
 
-files = glob.glob1(hes_folder,'*.shp')
-
+files = glob.glob1(hes_folder, '*.shp')
+wbt.set_working_dir(folder)
+# wbt.verbose = False
 for file in files:
-
+    wbt.snap_pour_points(os.path.join(hes_folder, file), "Flow_acc.tif",
+                         "snap_point.shp", snap_dist=0.02)
+    wbt.watershed("Flow_dir.tif", "snap_point.shp", "Watershed.tif")
+    name = file.split('.')[0]
+    try:
+        raster2polygon("Watershed.tif", folder, name)
+        shape = gpd.read_file(os.path.join(folder, name + '_basins.shp'))
+        shape['BID'] = name
+    except:
+        print(f'{name} could not converted')
