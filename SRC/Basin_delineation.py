@@ -1,4 +1,4 @@
-import os, glob
+ import os, glob
 import whitebox
 import rasterio
 from rasterio.features import shapes as shp
@@ -87,5 +87,12 @@ def full_work_flow(folder):
     # print(files[0])
 
 
-full_work_flow(folder)
+# full_work_flow(folder)
 # rename_all(folder)
+
+hes_folder = r'C:\Users\cagri\Desktop\TR_HES_Basins\Data\HES\Hes_Separeted'
+
+files = glob.glob1(hes_folder,'*.shp')
+
+for file in files:
+

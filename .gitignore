@@ -133,3 +133,5 @@ Data/HES_kordinatlar_GTE_31052020_1.xlsx
 Data/.~lock.HES_kordinatlar_GTE_31052020_1.csv#
 Data/DEM/*
 Data/DEM/
+
+*.lock
