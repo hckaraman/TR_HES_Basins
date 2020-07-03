@@ -135,3 +135,7 @@ Data/DEM/*
 Data/DEM/
 
 *.lock
+
+Data/HES/
+
+Data/

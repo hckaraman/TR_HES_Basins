@@ -94,12 +94,14 @@ hes_folder = '/home/cak/Desktop/TR_HES_Basins/Data/HES/Hes_Separeted'
 
 files = glob.glob1(hes_folder, '*.shp')
 wbt.set_working_dir(folder)
-# wbt.verbose = False
+wbt.verbose = False
 for file in files:
+    name = file.split('.')[0]
+    print(name)
     wbt.snap_pour_points(os.path.join(hes_folder, file), "Flow_acc.tif",
                          "snap_point.shp", snap_dist=0.02)
     wbt.watershed("Flow_dir.tif", "snap_point.shp", "Watershed.tif")
-    name = file.split('.')[0]
+
     try:
         raster2polygon("Watershed.tif", folder, name)
         shape = gpd.read_file(os.path.join(folder, name + '_basins.shp'))

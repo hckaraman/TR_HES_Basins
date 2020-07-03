@@ -1,0 +1,40 @@
+SELECT h2.objectid FROM havza h2 JOIN basin_polygon_name_4326 bpn ON ST_Intersects(ST_Buffer(bpn.geom,-0.02), h2.geom) WHERE bpn.rteno = '{}';
+
+select h2.hydroid from hru h2 join "Basin" b on ST_Intersects(ST_Buffer(b.geom,-0.02), h2.geom) WHERE b.id = 398;
+
+select * from hru h2 join "basin" b on ST_Intersects(ST_Buffer(b.geom,-0.02), h2.geom) WHERE b.bid = 'B_183';
+
+select b.geom from basin b where b.bid = 'B_183';
+
+
+CREATE INDEX hru_index
+ON hru
+USING GIST (geom);
+
+CREATE INDEX basin_index
+ON basin 
+USING GIST (geom);
+
+
+create materialized view basin_points as
+SELECT ST_PointOnSurface(basin.geom) as p_geom, ST_Centroid(basin.geom ),basin.* from basin ;
+
+create materialized view hru_points as
+SELECT ST_PointOnSurface(h2.geom) as p_geom, ST_Centroid(h2.geom ),h2.* from hru h2 ;
+
+
+
+select * from basin_points bt where bt.bid  = 'B_183';
+
+,
+select ST_Contains((select bt.geom from basin_points bt where bt.bid  = 'B_183'),hru_points.p_geom );
+select hp.hydroid from hru_points hp join basin_points on ST_Contains(basin_points.geom,hp.p_geom) WHERE basin_points.bid  = 'B_183';
+
+
+
+select bt.geom from basin_points bt where bt.bid  = 'B_183';
+
+select bt. from basin_points bt where bt.bid  = 'B_183';
+
+
+
