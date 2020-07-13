@@ -11,9 +11,9 @@ engine = create_engine('postgresql://postgres:kalman@localhost:5432/clima')
 
 date = datetime.datetime(2015, 1, 1)
 
-models = ['MPI-ESM-MR', 'CNRM-CM5']
+# models = ['MPI-ESM-MR', 'CNRM-CM5']
 
-# models = ['HadGEM2-ES']
+models = ['HadGEM2-ES']
 
 senaryos = ['RCP4.5', 'RCP8.5']
 
@@ -28,6 +28,7 @@ id = 1
 for model in models:
     for senaryo in senaryos:
         for basin in basins:
+            rows_list = []
             # havza = h.strip(".shp")[1:]
             for y in range(2015, 2090):
                 for m in range(1, 13):
@@ -42,9 +43,11 @@ for model in models:
                     rows_list.append(data)
                     print(id, m, y, senaryo, model, basin)
                     id += 1
+            csv_name = basin + '_' + model + '_' + senaryo + '_.csv'
+            df = pd.DataFrame(rows_list)
+            df.to_csv(os.path.join('/home/cak/Desktop/TR_HES_Basins/Data/Results', csv_name))
 
-df = pd.DataFrame(rows_list)
-df.to_csv(os.path.join('/home/cak/Desktop/TR_HES_Basins/Data/Results', 'Result.csv'))
+# df = pd.DataFrame(rows_list)
 
 end = time.time()
 hours, rem = divmod(end - start, 3600)
