@@ -90,7 +90,7 @@ def full_work_flow(folder):
 # full_work_flow(folder)
 # rename_all(folder)
 
-hes_folder = '/home/cak/Desktop/TR_HES_Basins/Data/HES/Hes_Separeted'
+hes_folder = '/home/cak/Desktop/TR_HES_Basins/Data/HES/Hes_Separeted_ek'
 
 files = glob.glob1(hes_folder, '*.shp')
 wbt.set_working_dir(folder)
@@ -106,5 +106,7 @@ for file in files:
         raster2polygon("Watershed.tif", folder, name)
         shape = gpd.read_file(os.path.join(folder, name + '_basins.shp'))
         shape['BID'] = name
+        shape = shape.dissolve(by='raster_val')
+        shape.to_file(os.path.join(folder, name + '_basins.shp'), driver="ESRI Shapefile")
     except:
         print(f'{name} could not converted')
