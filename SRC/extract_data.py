@@ -4,12 +4,17 @@ import matplotlib.pyplot as plt
 import datetime
 from dateutil.relativedelta import relativedelta
 import os, time, glob
+import yaml
 
 folder = os.path.abspath(__file__ + '/../..')
 result_folder = os.path.join(folder, 'Data', 'Results')
 start = time.time()
 
-engine = create_engine('postgresql://postgres:kalman@localhost:5432/clima')
+with open(os.path.join(os.path.abspath(__file__ + '/..'), 'server.yaml')) as f:
+    data = yaml.load(f, Loader=yaml.FullLoader)
+
+st = f"""postgresql://{data['user']}:{data['password']}@{data['host']}:{data['port']}/{data['database']}"""
+engine = create_engine(st)
 
 date = datetime.datetime(2015, 1, 1)
 
@@ -28,8 +33,7 @@ rows_list = []
 
 id = 1
 
-
-d_file = os.path.join(folder,'Done.csv')
+d_file = os.path.join(folder, 'Done.csv')
 
 done_stations = []
 with open(d_file) as f:
