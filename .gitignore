@@ -140,3 +140,7 @@ Data/HES/
 
 Data/
 *.yaml
+
+*.dbf
+
+*.qgz
